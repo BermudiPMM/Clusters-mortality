@@ -1,7 +1,7 @@
 # Clusters-mortality
 Dataset of the "Clusters of high-risk, low-risk, and temporal trends of breast and cervical cancer-related mortality in São Paulo, Brazil, during 2000–2016" paper.
 
-This repository contains the dataset "database.xlsx" file in which the dictionary is attached as "dictionary.pdf". 
+This repository contains the dataset "database.xlsx" file in which the dictionary is attached as "Dictionary.pdf". 
 
 The dataset file provides information from the scan analyzes carried out for the city of São Paulo, in the period from 2000 to 2016, of mortality due to breast cancer and cervical cancer. In the file, it is possible to find values of the relative risks of the high and low risk clusters and their statistical significance, detailed for the code of each unit of analysis of the study area. This information refers to the analysis by spatial and temporal space scanning. In addition, for the analysis of spatial variation of temporal trends, it is possible to find the values of trends inside and outside the clusters. 
 
